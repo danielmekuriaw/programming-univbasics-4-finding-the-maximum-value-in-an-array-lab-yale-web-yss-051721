@@ -3,4 +3,6 @@ def find_max_value(array)
   for i in array
     if i > max
       max = i
+    end
+  end
 end
